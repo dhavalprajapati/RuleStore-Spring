@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [11/Aug/2016:13:22:37 -0400] "GET /rulestore/rule/listRules HTTP/1.1" 200 3890 http-bio-8080-exec-1 1502
+0:0:0:0:0:0:0:1 - - [11/Aug/2016:13:22:38 -0400] "GET /rulestore/web-resources/lib/jquery/jquery-ui-1.10.4.custom.css HTTP/1.1" 304 - http-bio-8080-exec-2 12
+0:0:0:0:0:0:0:1 - - [11/Aug/2016:13:22:38 -0400] "GET /rulestore/web-resources/lib/bootstrap-3.3.6/js/bootstrap.min.js HTTP/1.1" 304 - http-bio-8080-exec-7 6
+0:0:0:0:0:0:0:1 - - [11/Aug/2016:13:22:38 -0400] "GET /rulestore/web-resources/lib/jquery/jquery-ui-1.10.4.custom.js HTTP/1.1" 304 - http-bio-8080-exec-4 11
+0:0:0:0:0:0:0:1 - - [11/Aug/2016:13:22:38 -0400] "GET /rulestore/web-resources/lib/bootstrap-3.3.6/css/bootstrap.min.css HTTP/1.1" 304 - http-bio-8080-exec-6 10
+0:0:0:0:0:0:0:1 - - [11/Aug/2016:13:22:38 -0400] "GET /rulestore/web-resources/lib/jquery/jquery.ui.datepicker.js HTTP/1.1" 304 - http-bio-8080-exec-5 4
+0:0:0:0:0:0:0:1 - - [11/Aug/2016:13:22:38 -0400] "GET /rulestore/web-resources/lib/jquery/jquery-1.10.2.js HTTP/1.1" 304 - http-bio-8080-exec-3 12
+0:0:0:0:0:0:0:1 - - [11/Aug/2016:13:22:38 -0400] "GET /rulestore/web-resources/js/js-for-listRules.js HTTP/1.1" 304 - http-bio-8080-exec-4 4
+0:0:0:0:0:0:0:1 - - [11/Aug/2016:13:22:38 -0400] "GET /rulestore/web-resources/lib/bootstrap-3.3.6/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 - http-bio-8080-exec-4 8
+0:0:0:0:0:0:0:1 - - [11/Aug/2016:13:22:42 -0400] "GET /rulestore/rule/get/2 HTTP/1.1" 200 1552 http-bio-8080-exec-4 183
+0:0:0:0:0:0:0:1 - - [11/Aug/2016:13:22:44 -0400] "POST /rulestore/rule/save HTTP/1.1" 302 - http-bio-8080-exec-4 30
+0:0:0:0:0:0:0:1 - - [11/Aug/2016:13:22:44 -0400] "GET /rulestore/rule/listRules HTTP/1.1" 200 3890 http-bio-8080-exec-4 11
+0:0:0:0:0:0:0:1 - - [11/Aug/2016:13:22:59 -0400] "POST /rulestore/rule/save HTTP/1.1" 302 - http-bio-8080-exec-4 30
+0:0:0:0:0:0:0:1 - - [11/Aug/2016:13:22:59 -0400] "GET /rulestore/rule/listRules HTTP/1.1" 200 4515 http-bio-8080-exec-4 9
